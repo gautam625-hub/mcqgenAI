@@ -1,11 +1,11 @@
 setup.py
-SRC/__init__.py
-SRC/MCQGENERATOR/MCQgenerator.py
-SRC/MCQGENERATOR/__init__.py
-SRC/MCQGENERATOR/logger.py
-SRC/MCQGENERATOR/utlis.py
 mcqgenerator.egg-info/PKG-INFO
 mcqgenerator.egg-info/SOURCES.txt
 mcqgenerator.egg-info/dependency_links.txt
 mcqgenerator.egg-info/requires.txt
 mcqgenerator.egg-info/top_level.txt
+src/__init__.py
+src/mcqgenerator/MCQgenerator.py
+src/mcqgenerator/__init__.py
+src/mcqgenerator/logger.py
+src/mcqgenerator/utlis.py
