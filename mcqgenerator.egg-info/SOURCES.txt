@@ -1,7 +1,9 @@
-README.md
 setup.py
 SRC/__init__.py
+SRC/MCQGENERATOR/MCQgenerator.py
 SRC/MCQGENERATOR/__init__.py
+SRC/MCQGENERATOR/logger.py
+SRC/MCQGENERATOR/utlis.py
 mcqgenerator.egg-info/PKG-INFO
 mcqgenerator.egg-info/SOURCES.txt
 mcqgenerator.egg-info/dependency_links.txt

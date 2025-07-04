@@ -7,7 +7,7 @@ Requires-Dist: openai
 Requires-Dist: langchain
 Requires-Dist: streamlit
 Requires-Dist: python-dotenv
-Requires-Dist: pyPDF2
+Requires-Dist: PyPDF2
 Dynamic: author
 Dynamic: author-email
 Dynamic: requires-dist
