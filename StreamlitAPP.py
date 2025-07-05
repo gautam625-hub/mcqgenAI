@@ -13,7 +13,7 @@ from src.mcqgenerator.logger import logging
 load_dotenv()
 
 # loading JSON config file
-with open('/workspaces/mcqgenAI/response.json', 'r') as file:
+with open('response.json', 'r') as file:
     response_json = json.load(file)
 
 # Streamlit app title
